@@ -1,0 +1,17 @@
+#ramonIcon {
+  width: 60px;
+  height: 60px;
+  border-radius: 80%;
+  margin-top: 5px;
+  margin-right: 10px;
+  border: 2px #0000007a solid;
+}
+.icons-cat {
+  margin-top: 0px;
+}
+
+.bt-box {
+  background-color: #d3d3d3;
+  color: black;
+  font-weight: bold;
+}

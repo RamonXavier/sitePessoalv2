@@ -1,0 +1,38 @@
+body {
+  background-color: #f9f9f9;
+}
+
+#ramonIcon {
+  width: 60px;
+  height: 60px;
+  border-radius: 80%;
+  margin-top: 5px;
+  margin-right: 10px;
+  border: 2px #0000007a solid;
+}
+.icons-cat {
+  margin-top: 0px;
+}
+
+.bt-box {
+  background-color: #d3d3d3;
+  color: black;
+  font-weight: bold;
+  border-radius: 7px;
+}
+
+.bt-safe {
+  background-color: rgba(33, 189, 46, 0.753);
+  color: white;
+  font-weight: bold;
+}
+
+.bt-safe:hover {
+  background-color: rgba(33, 189, 46, 0.596);
+  color: white;
+  font-weight: bold;
+}
+
+.bt-box:hover {
+  background-color: rgba(57, 204, 214, 0.836);
+}
